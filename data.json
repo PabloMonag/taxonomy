@@ -79,7 +79,7 @@
         "size": 5000,
         "children": [{
           "name": "Ethereum",
-          "size": 1000
+          "size": 1200
         },{
           "name": "Cardano",
           "size": 1000
