@@ -343,7 +343,7 @@
                "name": "BowHead",
                "size": 1000
                "url": "https://www.bowheadhealth.com/"
-          
+          }] 
         },{
           "name": "Analytics",
           "size": 1000  
@@ -382,11 +382,11 @@
         "children": [{
           "name": "Gospel",
           "size": 1000  
-          "url": "https://0xproject.com/" 
+          "url": "https://gospel.tech/" 
         },{
           "name": "Everledger",
           "size": 1000
-          "url": "https://aigang.network/"    
+          "url": "https://www.everledger.io/"    
         },{
           "name": "Hacken",
           "size": 1000
@@ -395,8 +395,212 @@
       }
     ]
   }]  
-  
-
-
+}, {
+    "name": "Developer Tools",
+    "children": [
+      {
+        "name": "Smart Contract Development",
+        "size": 4000,
+        "children": [{
+          "name": "Embark",
+          "size": 1000
+          "url": "https://embark.status.im/"
+        },{
+          "name": "Truffle",
+          "size": 1000
+          "url": "https://truffleframework.com/"
+        }]
+        },{
+        "name": "Oracles",
+        "size": 5000,
+        "children": [{
+          "name": "Oraclize",
+          "size": 1000
+          "url": "http://www.oraclize.it/"
+        },{
+          "name": "Augur",
+          "size": 1000
+          "url": "https://www.augur.net/"
+        },{
+          "name": "Chainlink",
+          "size": 1000 
+          "url": "https://chain.link/"
+            }] 
+        },{
+           "name": "Scaling",
+        "size": 5000,
+        "children": [{
+          "name": "TrueBit",
+          "size": 1000
+          "url": "https://truebit.io/"
+        },{
+          "name": "Lightning Network",
+          "size": 1000
+          "url": "https://lightning.network/"
+           }]           
+        },{
+          "name": "Legal",
+          "size": 5000
+          "children": [{
+               "name": "AGREllo",
+               "size": 1000
+               "url": "https://www.agrello.org/"
+             },{
+               "name": "CODELEGIT",
+               "size": 1000
+               "url": "http://codelegit.com/"
+             },{
+               "name": "mattereum",
+               "size": 1000
+               "url": "https://www.mattereum.com/"   
+            }]           
+        },{
+          "name": "Security",
+          "size": 1000 
+          "children": [{
+               "name": "Polyswarm",
+               "size": 1000
+               "url": "https://polyswarm.io/"
+             },{
+               "name": "BowHead",
+               "size": 1000
+               "url": "https://www.bowheadhealth.com/"
+            }]   
+        },{
+          "name": "Interoperability",
+          "size": 1000  
+          "children": [{
+               "name": "doc.ai",
+               "size": 1000
+               "url": "https://doc.ai/"
+             },{
+               "name": "OpenMined",
+               "size": 1000
+               "url": "https://www.openmined.org/"
+             },{
+               "name": "Astri",
+               "size": 1000
+               "url": "https://www.astri.org/"  
+        }]
+       },{
+           "name": "Privacy",
+           "size": 3000,
+           "children": [{
+            "name": "NUCYPHER",
+            "size": 1000  
+            "url": "https://www.nucypher.com/"
+        },{
+           "name": "ROCKCHAIN",
+           "size": 1000
+           "url": "https://rockchain.com/"
+        }]
+      },{
+           "name": "Gaming",
+           "size": 3000,
+           "children": [{
+             "name": "KodeBox",
+             "size": 1000  
+             "url": "https://kodebox.io/" 
+        },{
+             "name": "Loomx.io",
+             "size": 1000
+             "url": "https://loomx.io/"    
+        },{
+             "name": "alto.io",
+             "size": 1000
+             "url": "https://alto.io/"    
+        }]       
+      },{
+          "name": "dApps",
+          "size": 3000,
+          "children": [{
+             "name": "Blockchain Testnet",
+             "size": 1000  
+        },{
+             "name": "Web3.js",
+             "size": 1000
+             "url": "https://web3js.readthedocs.io/en/1.0/"     
+        }]
+      }
+    ]
+  }]    
+}, {
+    "name": "Computation & Distributed Services",
+    "children": [
+      {
+        "name": "File Storage",
+        "size": 4000,
+        "children": [{
+          "name": "Filecoin",
+          "size": 1000
+          "url": "https://filecoin.io/"
+        },{
+          "name": "Sia",
+          "size": 1000
+          "url": "https://sia.tech/"
+        },{
+          "name": "Storj",
+          "size": 1000
+          "url": "https://storj.io/"
+        },{
+          "name": "BigchainDB",
+          "size": 1000
+          "url": "https://www.bigchaindb.com/"
+        },{
+          "name": "IPFS",
+          "size": 1000
+          "url": "https://www.ipfs.com/"  
+          
+          
+          
+  "name": "Computation & Distributed Services",
+    "children": [
+      {
+        "name": "File Storage",
+        "size": 4000,
+        "children": [{
+          "name": "Filecoin",
+          "size": 1000
+          "url": "https://filecoin.io/"
+        },{
+          "name": "Sia",
+          "size": 1000
+          "url": "https://sia.tech/"
+        },{
+          "name": "Storj",
+          "size": 1000
+          "url": "https://storj.io/"
+        },{
+          "name": "BigchainDB",
+          "size": 1000
+          "url": "https://www.bigchaindb.com/"
+        },{
+          "name": "IPFS",
+          "size": 1000
+          "url": "https://www.ipfs.com/"          
+         }]   
+      },{
+         "name": "Distributed Computation ",
+        "size": 4000,
+        "children": [{
+          "name": "Golem",
+          "size": 1000
+          "url": "https://golem.network/"
+        },{
+          "name": "enigma",
+          "size": 1000
+          "url": "https://enigma.co/" 
+        },{
+          "name": "SONM",
+          "size": 1000
+          "url": "https://sonm.com/" 
+        },{
+          "name": "DFINITY",
+          "size": 1000
+          "url": "https://sia.tech/"   
+           
+        }
+     ]
+  }]   
   
 }
