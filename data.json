@@ -133,6 +133,22 @@
           "size": 1000
           "url": "https://basicattentiontoken.org/"           
         }]
+      },{
+        "name": "Prediction Markets",
+        "size": 5000,
+        "children": [{
+          "name": "Gnosis",
+          "size": 1000
+          "url": "https://gnosis.pm/"
+        },{
+          "name": "WINGS",
+          "size": 1000
+          "url": "https://wingsfoundation.ch/" 
+        },{
+          "name": "Bodhi",
+          "size": 1000
+          "url": "hhttps://www.bodhi.network/"       
+        }] 
       }
     ]
   }, {
@@ -241,4 +257,146 @@
       }
     ]
   }]
+}, {
+    "name": "Trust, Data & Integrity",
+    "children": [
+      {
+        "name": "SCM",
+        "size": 4000,
+        "children": [{
+          "name": "Filament",
+          "size": 1000
+          "url": "https://filament.com/"
+        },{
+          "name": "Blockfreight",
+          "size": 1000
+          "url": "https://blockfreight.com/"
+        },{
+          "name": "Skuchain",
+          "size": 1000
+          "url": "http://www.skuchain.com/"
+        },{
+          "name": "Shipchain",
+          "size": 1000
+          "url": "https://shipchain.io/"
+        }]
+        },{
+        "name": "Healthcare",
+        "size": 5000,
+        "children": [{
+          "name": "Patient Records",
+          "size": 1000
+          "children": [{
+               "name": "MedicalChain",
+               "size": 1000
+               "url": "https://medicalchain.com/en/"
+             },{
+               "name": "MedRec",
+               "size": 1000
+               "url": "https://medrec.media.mit.edu/"
+             },{
+              "name": "patientory",
+              "size": 1000
+              "url": "https://patientory.com/"
+             },{
+              "name": "IRYO",
+              "size": 1000
+              "url": "https://iryo.io/"
+            }] 
+        },{
+          "name": "Data Infrastructure",
+          "size": 1000
+          "children": [{
+               "name": "Hashed Health",
+               "size": 1000
+               "url": "https://hashedhealth.com/"
+             },{
+               "name": "pokitdok",
+               "size": 1000
+               "url": "https://pokitdok.com/"
+             },{
+              "name": "DeepMind Health",
+              "size": 1000
+              "url": "https://deepmind.com/applied/deepmind-health/"
+            }]           
+        },{
+          "name": "Drug Tracking",
+          "size": 1000
+          "size": 1000
+          "children": [{
+               "name": "Farma Trust",
+               "size": 1000
+               "url": "https://www.farmatrust.com/"
+             },{
+               "name": "Block Pharma",
+               "size": 1000
+               "url": "https://www.blockpharma.com/"
+            }]           
+        },{
+          "name": "Digital Care/Medicine",
+          "size": 1000 
+          "children": [{
+               "name": "PointNurse",
+               "size": 1000
+               "url": "https://www.pointnurse.com/"
+             },{
+               "name": "BowHead",
+               "size": 1000
+               "url": "https://www.bowheadhealth.com/"
+          
+        },{
+          "name": "Analytics",
+          "size": 1000  
+          "children": [{
+               "name": "doc.ai",
+               "size": 1000
+               "url": "https://doc.ai/"
+             },{
+               "name": "OpenMined",
+               "size": 1000
+               "url": "https://www.openmined.org/"
+             },{
+               "name": "Astri",
+               "size": 1000
+               "url": "https://www.astri.org/"  
+        }]
+      },{
+        "name": "Insurance",
+        "size": 3000,
+        "children": [{
+          "name": "Lemonade",
+          "size": 1000  
+          "url": "https://www.lemonade.com/"
+        },{
+          "name": "teambrella",
+          "size": 1000
+          "url": "https://teambrella.com/"
+        },{
+          "name": "AI Gang",
+          "size": 1000
+          "url": "https://aigang.network/"  
+        }]
+      },{
+        "name": "Enterprise",
+        "size": 3000,
+        "children": [{
+          "name": "Gospel",
+          "size": 1000  
+          "url": "https://0xproject.com/" 
+        },{
+          "name": "Everledger",
+          "size": 1000
+          "url": "https://aigang.network/"    
+        },{
+          "name": "Hacken",
+          "size": 1000
+          "url": "https://hacken.io/"     
+        }]       
+      }
+    ]
+  }]  
+  
+
+
+  
 }
