@@ -53,14 +53,21 @@
         "name": "Real Estate",
         "size": 5000,
         "children": [{
-          "name": "Imbrex",
+          "name": "imbrex",
           "size": 1000
+          "url": "https://imbrex.io/#!/"
         },{
-          "name": "Propy",
+          "name": "propy",
           "size": 1000
+          "url": "https://propy.com/"          
         },{
           "name": "Baya",
           "size": 1000
+          "url": "https://baya.io/"
+        },{
+          "name": "ubitquity",
+          "size": 1000
+          "url": "https://www.ubitquity.io/web/index.html"          
         }]
       },{
         "name": "P2P",
@@ -68,6 +75,63 @@
         "children": [{
           "name": "OpenBazaar",
           "size": 1000
+          "url": "https://openbazaar.org/"
+        },{
+          "name": "TradeStuff",
+          "size": 1000
+          "url": "https://www.tradestuff.com/" 
+        }] 
+      },{
+        "name": "E-commerce",
+        "size": 5000,
+        "children": [{
+          "name": "TIPO",
+          "size": 1000
+          "url": "https://thetipo.io/"
+        },{
+          "name": "ECoinmerce",
+          "size": 1000
+          "url": "https://www.ecoinmerce.io/" 
+        }]           
+      },{
+        "name": "dMarketplaces",
+        "size": 5000,
+        "children": [{
+          "name": "CanYa",
+          "size": 1000
+          "url": "https://canya.io/"
+        },{
+          "name": "enfavr",
+          "size": 1000
+          "url": "http://enfavr.com/enfavr/" 
+        },{
+          "name": "OpenSea",
+          "size": 1000
+          "url": "https://opensea.io/"           
+        }]             
+      },{
+        "name": "Advertising",
+        "size": 5000,
+        "children": [{
+          "name": "AdEx",
+          "size": 1000
+          "url": "https://www.adex.network/"
+        },{
+          "name": "Qchain",
+          "size": 1000
+          "url": "https://qchain.co/" 
+        },{
+          "name": "AdBank",
+          "size": 1000
+          "url": "https://adbank.network/"       
+        },{
+          "name": "AdChain",
+          "size": 1000
+          "url": "https://publisher.adchain.com/"
+        },{
+          "name": "BAT",
+          "size": 1000
+          "url": "https://basicattentiontoken.org/"           
         }]
       }
     ]
