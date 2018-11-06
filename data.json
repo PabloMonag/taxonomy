@@ -76,27 +76,104 @@
     "children": [
       {
         "name": "Blockchain Protocols",
-        "size": 5000,
+        "size": 4000,
         "children": [{
           "name": "Ethereum",
-          "size": 1200
+          "size": 1000
+          "url": "https://www.ethereum.org/"
         },{
           "name": "Cardano",
           "size": 1000
+          "url": "https://www.cardano.org/en/home/"
         },{
-          "name": "NEO",
+          "name": "Stellar",
           "size": 1000
+          "url": "https://www.stellar.org/"
         },{
           "name": "EOS",
           "size": 1000
+          "url": "https://eos.io/"
+        },{
+          "name": "Qtum",
+          "size": 1000
+          "url": "https://qtum.org/en/"
         }]
-      },{
-        "name": "Other\nStuff",
+        },{
+        "name": "DAG Protocols",
         "size": 5000,
         "children": [{
-          "name": "A Special Thing",
+          "name": "Byteball",
+          "size": 1000
+          "url": "https://byteball.org/"
+        },{
+          "name": "Phantom",
+          "size": 1000
+          "url": "https://phantom.org/"
+        },{
+          "name": "GHOSTDAG",
           "size": 1000
         }]
+      },{
+        "name": "Scaling",
+        "size": 3000,
+        "children": [{
+          "name": "Raiden",
+          "size": 1000  
+          "url": "https://raiden.network/"
+        },{
+          "name": "Tierion",
+          "size": 1000
+          "url": "https://tierion.com/"
+        }]
+       },{
+        "name": "Governance",
+        "size": 3000,
+        "children": [{
+          "name": "0x",
+          "size": 1000  
+          "url": "https://0xproject.com/"
+        },{
+          "name": "Qubit",
+          "size": 1000
+          "url": "https://www.qubitprotocol.com/" 
+        }]
+       },{
+        "name": "Security",
+        "size": 3000,
+        "children": [{
+          "name": "Zeppelin",
+          "size": 1000  
+          "url": "https://zeppelin.solutions/"
+        },{
+          "name": "Quantstamp",
+          "size": 1000
+          "url": "https://quantstamp.com/" 
+        }]  
+       },{
+        "name": "Interoperability",
+        "size": 3000,
+        "children": [{
+          "name": "district0x",
+          "size": 1000  
+          "url": "https://district0x.io/"
+        },{
+          "name": "Wax",
+          "size": 1000
+          "url": "https://wax.io/" 
+        }]  
+       },{
+        "name": "IoT",
+        "size": 3000,
+        "children": [{
+          "name": "IOTA",
+          "size": 1000  
+          "url": "https://www.iota.org/"
+        },{
+          "name": "Chain of Things",
+          "size": 1000
+          "url": "https://www.chainofthings.com/" 
+        }]  
+         
       }
     ]
   }]
