@@ -6,69 +6,69 @@
        "name": "Custody",
        "children": [{
          "name": "Web Wallets",
-         "size": 5000,
+         "size": 3000,
          "children": [
         {
           "name": "MetaMask",
-          "size": 1000,
+          "size": 1500,
           "url": "https://metamask.io/"
         }, {
           "name": "MyEtherWallet",
-          "size": 1000,
+          "size": 1500,
           "url": "https://www.myetherwallet.com/"
         }, {
           "name": "Atomic",
-          "size": 1000,
+          "size": 1500,
           "url": "https://atomicwallet.io/"  
         }
       ]
     },{
       "name": "Mobile Wallets",
-      "size": 5000,
+      "size": 3000,
       "children": [
         {
           "name": "Coinomi",
-          "size": 1000, 
+          "size": 1500, 
           "url": "https://www.coinomi.com/"
         }, {
           "name": "MyCelium",
-          "size": 1000,
+          "size": 1500,
           "url": "https://wallet.mycelium.com/"
         }, {
           "name": "BRD",
-          "size": 1000,
+          "size": 1500,
           "url": "https://brd.com/"  
         }
       ]
     },{
       "name": "Hard Wallets",
-      "size": 5000,
+      "size": 3000,
       "children": [
         {
           "name": "Ledger",
-          "size": 1000, 
+          "size": 1500, 
           "url": "https://www.ledger.com/"
         }, {
           "name": "Trezor",
-          "size": 1000,
+          "size": 1500,
           "url": "https://trezor.io/"
         }, {
           "name": "Keepkey",
-          "size": 1000,
+          "size": 1500,
           "url": "https://www.keepkey.com/" 
         }
       ]
     },{
       "name": "Cold Storage",
-      "size": 5000,
+      "size": 3000,
       "children": [
         {
           "name": "Xapo",
-          "size": 1000,
+          "size": 1500,
           "url": "https://xapo.com/"
         }, {
           "name": "BitGo",
-          "size": 1000,
+          "size": 1500,
           "url": "https://www.bitgo.com/info/" 
           }
         ]
@@ -77,15 +77,15 @@
      "name": "Trading Platforms",
     "children": [{
           "name": "Coinsquare",
-          "size": 1000,
+          "size": 1500,
           "url": "https://coinsquare.com/"
         },{
           "name": "Kraken",
-          "size": 1000,
+          "size": 1500,
           "url": "https://www.kraken.com/"          
         },{
           "name": "CoinMama",
-          "size": 1000,
+          "size": 1500,
           "url": "https://www.coinmama.com/"        
         }]
   },{  
