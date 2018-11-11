@@ -678,7 +678,7 @@
     "name": "Developer Tools",
     "children": [
       {
-        "name": "Smart Contract Development",
+        "name": "Smart Contracts",
         "size": 4000,
         "children": [{
           "name": "Embark",
