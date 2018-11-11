@@ -1,11 +1,13 @@
 {
   "name": "Blockchain & Crypto Startup Taxonomy",
   "children": [{
-    "name": "Custody",
+   "name": "Transactions & Payment Services",
     "children": [{
-      "name": "Web Wallets",
-      "size": 5000,
-      "children": [
+       "name": "Custody",
+       "children": [{
+         "name": "Web Wallets",
+         "size": 5000,
+         "children": [
         {
           "name": "MetaMask",
           "size": 1000,
@@ -14,6 +16,10 @@
           "name": "MyEtherWallet",
           "size": 1000,
           "url": "https://www.myetherwallet.com/"
+        }, {
+          "name": "Atomic",
+          "size": 1000,
+          "url": "https://atomicwallet.io/"  
         }
       ]
     },{
@@ -22,7 +28,16 @@
       "children": [
         {
           "name": "Coinomi",
-          "size": 1000
+          "size": 1000, 
+          "url": "https://www.coinomi.com/"
+        }, {
+          "name": "MyCelium",
+          "size": 1000,
+          "url": "https://wallet.mycelium.com/"
+        }, {
+          "name": "BRD",
+          "size": 1000,
+          "url": "https://brd.com/"  
         }
       ]
     },{
@@ -31,10 +46,16 @@
       "children": [
         {
           "name": "Ledger",
-          "size": 1000
-        },{
+          "size": 1000, 
+          "url": "https://www.ledger.com/"
+        }, {
           "name": "Trezor",
-          "size": 1000
+          "size": 1000,
+          "url": "https://trezor.io/"
+        }, {
+          "name": "Keepkey",
+          "size": 1000,
+          "url": "https://www.keepkey.com/" 
         }
       ]
     },{
@@ -43,10 +64,155 @@
       "children": [
         {
           "name": "Xapo",
-          "size": 1000
-        }
-      ]
-    }]
+          "size": 1000,
+          "url": "https://xapo.com/"
+        }, {
+          "name": "BitGo",
+          "size": 1000,
+          "url": "https://www.bitgo.com/info/" 
+          }
+        ]
+     }]    
+  },{  
+     "name": "Trading Platforms",
+    "children": [{
+          "name": "Coinsquare",
+          "size": 1000,
+          "url": "https://coinsquare.com/"
+        },{
+          "name": "Kraken",
+          "size": 1000,
+          "url": "https://www.kraken.com/"          
+        },{
+          "name": "CoinMama",
+          "size": 1000,
+          "url": "https://www.coinmama.com/"        
+        }]
+  },{  
+     "name": "Merchant Transactions",
+    "children": [{
+          "name": "Coinify",
+          "size": 1000,
+          "url": "https://coinify.com/"
+        },{
+          "name": "Bitpay",
+          "size": 1000,
+          "url": "https://bitpay.com/"          
+        },{
+          "name": "POSaBIT",
+          "size": 1000,
+          "url": "https://www.posabit.com/"       
+        }]
+  },{  
+     "name": "DEX",
+    "children": [{
+          "name": "bitshares",
+          "size": 1000,
+          "url": "https://bitshares.org/"
+        },{
+          "name": "counterparty",
+          "size": 1000,
+          "url": "https://counterparty.io/"          
+        },{
+          "name": "RadarRelay",
+          "size": 1000,
+          "url": "https://radarrelay.com/"         
+        }]
+  },{  
+     "name": "P2P Lending",
+    "children": [{
+          "name": "Bitbond",
+          "size": 1000,
+          "url": "https://www.bitbond.com/"
+        },{
+          "name": "ETHLend",
+          "size": 1000,
+          "url": "https://ethlend.io/#/main"          
+        },{
+          "name": "RCN",
+          "size": 1000,
+          "url": "https://ripiocredit.network/"
+        },{
+          "name": "SALT",
+          "size": 1000,
+          "url": "https://saltlending.com/"          
+        }]
+   },{  
+     "name": "Investments",
+    "children": [{
+          "name": "GrayScale",
+          "size": 1000,
+          "url": "https://grayscale.co/"
+        },{
+          "name": "eToro",
+          "size": 1000,
+          "url": "https://www.etoro.com/en-us/"          
+        },{
+          "name": "motif",
+          "size": 1000,
+          "url": "https://www.motif.com/"        
+        }]      
+    },{  
+     "name": "Microtransactions",
+    "children": [{
+          "name": "Protip",
+          "size": 1000,
+          "url": "http://protip.is/"
+        },{
+          "name": "BitWall",
+          "size": 1000,
+          "url": "http://get.watchout.world/bitwall/"                 
+        }]        
+    },{  
+     "name": "Infrastructure",
+    "children": [{
+          "name": "GrayScale",
+          "size": 1000,
+          "url": "https://grayscale.co/"
+        },{
+          "name": "eToro",
+          "size": 1000,
+          "url": "https://www.etoro.com/en-us/"          
+        },{
+          "name": "motif",
+          "size": 1000,
+          "url": "https://www.motif.com/"        
+        }]       
+    },{  
+     "name": "Compliance",
+    "children": [{
+          "name": "CHAINALYSIS",
+          "size": 1000,
+          "url": "https://www.chainalysis.com/"
+        },{
+          "name": "PROTUS",
+          "size": 1000,
+          "url": "http://iprotus.com/"                
+        }]       
+    },{  
+     "name": "KYC",
+    "children": [{
+          "name": "ShoCard",
+          "size": 1000,
+          "url": "https://shocard.com/"
+        },{
+          "name": "norbloc",
+          "size": 1000,
+          "url": "https://www.norbloc.com/"
+        },{
+          "name": "Crypto Kabn",
+          "size": 1000,
+          "url": "https://cryptokabn.com/"
+        },{
+          "name": "norbloc",
+          "size": 1000,
+          "url": "https://www.norbloc.com/"
+        },{
+          "name": "norbloc",
+          "size": 1000,
+          "url": "https://www.norbloc.com/"  
+        }]        
+  }]    
   },{
     "name": "Commerce",
     "children": [
