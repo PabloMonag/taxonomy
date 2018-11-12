@@ -213,7 +213,124 @@
           "url": "https://www.norbloc.com/"  
         }]        
   }]    
-  },{
+ },{
+    "name": "Sovereignty",
+    "children": [
+      {
+        "name": "Identity",
+        "size": 5000,
+        "children": [{
+          "name": "evernym",
+          "size": 1000,
+          "url": "https://www.evernym.com/"
+        },{
+          "name": "uport",
+          "size": 1000,
+          "url": "https://www.uport.me/"          
+        },{
+          "name": "CRYPTID",
+          "size": 1000,
+          "url": "https://cryptid.xyz/"       
+        }]
+    },{
+        "name": "Governance",
+        "size": 5000,
+        "children": [{
+          "name": "Aragon",
+          "size": 1000,
+          "url": "https://aragon.org/"
+        },{
+          "name": "deCRED",
+          "size": 1000,
+          "url": "https://www.decred.org/" 
+        },{
+          "name": "COLONY",
+          "size": 1000,
+          "url": "https://colony.io/"
+        },{
+          "name": "BACKFEED",
+          "size": 1000,
+          "url": "http://backfeed.cc/"  
+        }] 
+    },{
+        "name": "Data Protection",
+        "size": 5000,
+        "children": [{
+          "name": "LogSentinel",
+          "size": 1000,
+          "url": "https://logsentinel.com/"
+        },{
+          "name": "Gladius",
+          "size": 1000,
+          "url": "https://gladius.io/" 
+         },{
+          "name": "QuantStamp",
+          "size": 1000,
+          "url": "https://quantstamp.com/"   
+        }]           
+    },{
+        "name": "VPN",
+        "size": 5000,
+        "children": [{
+          "name": "Mysterium Network",
+          "size": 1000,
+          "url": "https://mysterium.network/"
+        },{
+          "name": "Privatix",
+          "size": 1000,
+          "url": "https://privatix.io/" 
+        },{
+          "name": "Sentinel",
+          "size": 1000,
+          "url": "https://sentinel.co/"           
+        }]             
+    },{
+        "name": "Communcation",
+        "size": 5000,
+        "children": [{
+          "name": "Mercury Protocol",
+          "size": 1000,
+          "url": "https://www.mercuryprotocol.com/"
+        },{
+          "name": "KiK",
+          "size": 1000,
+          "url": "https://www.kik.com/"       
+        }]
+    },{
+        "name": "Fraud Protection",
+        "size": 5000,
+        "children": [{
+          "name": "Elliptic",
+          "size": 1000,
+          "url": "https://www.elliptic.co/"
+        },{
+          "name": "Factom",
+          "size": 1000,
+          "url": "https://www.factom.com/" 
+        },{
+          "name": "Orchid",
+          "size": 1000,
+          "url": "https://www.orchid.com/"       
+        }] 
+     },{
+        "name": "Trust/Reputation Systems",
+        "size": 5000,
+        "children": [{
+          "name": "Bloom",
+          "size": 1000,
+          "url": "https://bloom.co/"
+        },{
+          "name": "Bitrated",
+          "size": 1000,
+          "url": "https://www.bitrated.com/" 
+        },{
+          "name": "Verify",
+          "size": 1000,
+          "url": "https://verif-y.com/"       
+        }] 
+      }
+    ]
+  }, {
     "name": "Commerce",
     "children": [
       {
@@ -314,7 +431,7 @@
         },{
           "name": "Bodhi",
           "size": 1000,
-          "url": "hhttps://www.bodhi.network/"       
+          "url": "https://www.bodhi.network/"       
         }] 
       }
     ]
