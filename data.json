@@ -263,10 +263,6 @@
           "name": "Gladius",
           "size": 1000,
           "url": "https://gladius.io/" 
-         },{
-          "name": "QuantStamp",
-          "size": 1000,
-          "url": "https://quantstamp.com/"   
         }]           
     },{
         "name": "VPN",
