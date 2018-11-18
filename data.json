@@ -6,14 +6,14 @@
 			"name": "Custody",
 			"children": [{
 				"name": "Web Wallets",
-				"size": 2000,
+				"size": 1500,
 				"children": [{
 					"name": "MetaMask",
 					"size": 1500,
 					"url": "https://metamask.io/"
 				}, {
 					"name": "MyEtherWallet",
-					"size": 1500,
+					"size": 2500,
 					"url": "https://www.myetherwallet.com/"
 				}, {
 					"name": "Atomic",
@@ -22,7 +22,7 @@
 				}]
 			}, {
 				"name": "Mobile Wallets",
-				"size": 2000,
+				"size": 1500,
 				"children": [{
 					"name": "Coinomi",
 					"size": 1500,
@@ -38,7 +38,7 @@
 				}]
 			}, {
 				"name": "Hard Wallets",
-				"size": 2000,
+				"size": 1500,
 				"children": [{
 					"name": "Ledger",
 					"size": 1500,
@@ -54,7 +54,7 @@
 				}]
 			}, {
 				"name": "Cold Storage",
-				"size": 2000,
+				"size": 1500,
 				"children": [{
 					"name": "Xapo",
 					"size": 1500,
