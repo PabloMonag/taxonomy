@@ -66,7 +66,7 @@
 				}]
 			}]
 		}, {
-			"name": "Trading Platforms",
+			"name": "Trade Platforms",
 			"children": [{
 				"name": "Coinsquare",
 				"size": 1500,
@@ -96,7 +96,7 @@
 				"url": "https://www.posabit.com/"
 			}]
 		}, {
-			"name": "DEX",
+			"name": "DEXs",
 			"children": [{
 				"name": "bitshares",
 				"size": 1000,
@@ -519,6 +519,10 @@
 				"name": "Chain of Things",
 				"size": 1000,
 				"url": "https://www.chainofthings.com/"
+			}, {
+				"name": "Filament",
+				"size": 1000,
+				"url": "https://filament.com/"
 			}]
 		}]
 	}, {
@@ -528,10 +532,6 @@
 			"name": "SCM",
 			"size": 4000,
 			"children": [{
-				"name": "Filament",
-				"size": 1000,
-				"url": "https://filament.com/"
-			}, {
 				"name": "Blockfreight",
 				"size": 1000,
 				"url": "https://blockfreight.com/"
@@ -667,6 +667,10 @@
 				"name": "Brave",
 				"size": 1000,
 				"url": "https://brave.com/"
+			}, {
+				"name": "Beaker",
+				"size": 1000,
+				"url": "https://beakerbrowser.com/"
 			}]
 		}, {
 			"name": "Content Management",
