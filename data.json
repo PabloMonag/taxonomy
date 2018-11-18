@@ -943,7 +943,7 @@
 		"name": "Gaming",
 		"children": [{
 			"name": "Platforms",
-			"size": 4000,
+			"size": 5000,
 			"children": [{
 				"name": "BitGuild",
 				"size": 1000,
@@ -987,7 +987,7 @@
 			}]
 		}, {
 			"name": "Marketplaces",
-			"size": 4000,
+			"size": 5000,
 			"children": [{
 				"name": "RobotCache",
 				"size": 1000,
@@ -1019,7 +1019,7 @@
 			}]
 		}, {
 			"name": "E-betting",
-			"size": 4000,
+			"size": 5000,
 			"children": [{
 				"name": "Azarus",
 				"size": 1000,
@@ -1035,7 +1035,7 @@
 			}]
 		}, {
 			"name": "Unique",
-			"size": 4000,
+			"size": 5000,
 			"children": [{
 				"name": "SkinCoin",
 				"size": 1000,
