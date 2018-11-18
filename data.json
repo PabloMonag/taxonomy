@@ -6,7 +6,7 @@
 			"name": "Custody",
 			"children": [{
 				"name": "Web Wallets",
-				"size": 3000,
+				"size": 2000,
 				"children": [{
 					"name": "MetaMask",
 					"size": 1500,
@@ -22,7 +22,7 @@
 				}]
 			}, {
 				"name": "Mobile Wallets",
-				"size": 3000,
+				"size": 2000,
 				"children": [{
 					"name": "Coinomi",
 					"size": 1500,
@@ -38,7 +38,7 @@
 				}]
 			}, {
 				"name": "Hard Wallets",
-				"size": 3000,
+				"size": 2000,
 				"children": [{
 					"name": "Ledger",
 					"size": 1500,
@@ -54,7 +54,7 @@
 				}]
 			}, {
 				"name": "Cold Storage",
-				"size": 3000,
+				"size": 2000,
 				"children": [{
 					"name": "Xapo",
 					"size": 1500,
